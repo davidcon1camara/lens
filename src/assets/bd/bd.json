@@ -1,0 +1,30 @@
+{
+    "lentes": [
+        {
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "30cm",
+        "milimetros": "35mm",
+        "estabilizado": "SI",
+        "modelos": "35mm OSS F1.8",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "500"
+    },
+    {
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "30cm",
+        "milimetros": "35mm",
+        "estabilizado": "SI",
+        "modelos": "35mm OSS F1.8",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "500"
+    }
+    ]
+}
