@@ -1,5 +1,57 @@
 {
     "lentes": [
+        {
+            "marca": "Sony",
+            "montura": "E",
+            "tamano": "8cm",
+            "milimetros": "11mm",
+            "estabilizado": "NO",
+            "modelos": "11mm F1.8",
+            "color": "Negro",
+            "diafragma": "F1.8",
+            "aberraciones": "No",
+            "flares"  : "Si",
+            "Sustars" : "No",
+            "precio"  : "499",
+            "nitidez" :"Muy Buena",
+            "peso" : "120gr",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/237/300/300",
+                    "urlThmb":"https://picsum.photos/id/237/150/200"
+                },
+                {
+                    "url":"https://picsum.photos/id/40/300/300",
+                    "urlThmb":"https://picsum.photos/id/40/150/200"
+                },
+                {
+                    "url":"https://picsum.photos/id/41/300/300",
+                    "urlThmb":"https://picsum.photos/id/41/150/200"
+                }
+            ]
+        },
+        {
+            "marca": "Sony",
+            "montura": "E",
+            "tamano": "15cm",
+            "milimetros": "15mm",
+            "estabilizado": "NO",
+            "modelos": "15mm F1.4",
+            "color": "Negro",
+            "diafragma": "F1.4",
+            "aberraciones": "No",
+            "flares"  : "Si",
+            "Sustars" : "No",
+            "precio"  : "799",
+            "nitidez" :"Excelente",
+            "anillo"  : "si",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/11/300/300",
+                    "urlThmb":"https://picsum.photos/id/11/150/200"
+                }
+            ]
+        },
     {
         "marca": "Sony",
         "montura": "E",
@@ -13,22 +65,14 @@
         "flares"  : "Si",
         "Sustars" : "No",
         "precio"  : "220",
-        "nitidez" :"mala"
-    },
-    {
-        "marca": "Sony",
-        "montura": "E",
-        "tamano": "30cm",
-        "milimetros": "35mm",
-        "estabilizado": "SI",
-        "modelos": "35mm OSS F1.8",
-        "color": "Negro",
-        "diafragma": "F1.8",
-        "aberraciones": "No",
-        "flares": "",
-        "Sustars": "",
-        "precio": "500",
-        "nitidez" :"Muy buena"
+        "nitidez" :"mala",
+        "anillo"  : "si",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/16/300/300",
+                    "urlThmb":"https://picsum.photos/id/16/150/200"
+                }
+            ]
     },
     {
         "marca": "Sony",
@@ -43,7 +87,14 @@
         "flares": "",
         "Sustars": "",
         "precio": "500",
-        "nitidez" :"buena"
+        "nitidez" :"buena",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/76/300/300",
+                    "urlThmb":"https://picsum.photos/id/76/150/200"
+                }
+            ]
     },
     {
         "marca": "Sony - Zeiss",
@@ -58,22 +109,109 @@
         "flares": "",
         "Sustars": "",
         "precio": "950",
-        "nitidez" :"Muy Buena"
+        "nitidez" :"Muy Buena",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/41/300/300",
+                    "urlThmb":"https://picsum.photos/id/41/150/200"
+                },
+                {
+                    "url":"https://picsum.photos/id/41/300/300",
+                    "urlThmb":"https://picsum.photos/id/41/150/200"
+                },{
+                    "url":"https://picsum.photos/id/41/300/300",
+                    "urlThmb":"https://picsum.photos/id/41/150/200"
+                }
+            ]
     },
     {
-        "marca": "Sony E 50mm OSS",
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "30cm",
+        "milimetros": "35mm",
+        "estabilizado": "SI",
+        "modelos": "35mm OSS F1.8",
+        "color": "Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "500",
+        "nitidez" :"Muy buena",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/56/300/300",
+                    "urlThmb":"https://picsum.photos/id/56/150/200"
+                }
+            ]
+    },       
+    {
+        "marca": "Sony",
         "montura": "E",
         "tamano": "17cm",
         "milimetros": "50mm",
-        "estabilizado": "NO",
-        "modelos": "Sony E 50mm F1.8 OSS",
-        "color": "SILVER / Negro",
+        "estabilizado": "SI",
+        "modelos": "Sony 50mm OSS F1.8",
+        "color": "Silver/Negro",
         "diafragma": "F1.8",
         "aberraciones": "No",
         "flares": "",
         "Sustars": "",
         "precio": "330",
-        "nitidez" :"Muy Buena"
+        "nitidez" :"Muy Buena",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/66/300/300",
+                    "urlThmb":"https://picsum.photos/id/66/150/200"
+                }
+            ]
+    },
+    {
+        "marca": "Sony",
+        "montura": "FE",
+        "tamano": "17cm",
+        "milimetros": "50mm",
+        "estabilizado": "SI",
+        "modelos": "Sony FE 50mm F1.8",
+        "color": "Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "199",
+        "nitidez" :"Buena",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/81/300/300",
+                    "urlThmb":"https://picsum.photos/id/81/150/200"
+                }
+            ]
+    },
+    {
+        "marca": "Sony",
+        "montura": "FE",
+        "tamano": "35cm",
+        "milimetros": "85mm",
+        "estabilizado": "NO",
+        "modelos": "Sony FE 85mm F1.8",
+        "color": "Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "699",
+        "nitidez" :"Excelente",
+        "anillo"  : "No",
+            "images" : [
+                {
+                    "url":"https://picsum.photos/id/36/300/300",
+                    "urlThmb":"https://picsum.photos/id/36/150/200"
+                }
+            ]
     }
     ]
 }
