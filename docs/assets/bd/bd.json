@@ -1,0 +1,64 @@
+{
+    "lentes": [
+    {
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "10cm",
+        "milimetros": "16mm",
+        "estabilizado": "NO",
+        "modelos": "16mm Pancake F2.8",
+        "color": "Silver",
+        "diafragma": "F2.8",
+        "aberraciones": "Si",
+        "flares"  : "Si",
+        "Sustars" : "No",
+        "precio"  : "220",
+        "nitidez" :"mala"
+    },
+    {
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "30cm",
+        "milimetros": "35mm",
+        "estabilizado": "SI",
+        "modelos": "35mm OSS F1.8",
+        "color": "Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "500",
+        "nitidez" :"Muy buena"
+    },
+    {
+        "marca": "Sony",
+        "montura": "E",
+        "tamano": "5cm",
+        "milimetros": "20mm",
+        "estabilizado": "NO",
+        "modelos": "20mm Pancake F2.8",
+        "color": "Negro",
+        "diafragma": "F2.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "500",
+        "nitidez" :"buena"
+    },
+    {
+        "marca": "Sony - Zeiss",
+        "montura": "E",
+        "tamano": "15cm",
+        "milimetros": "24mm",
+        "estabilizado": "NO",
+        "modelos": "Sony - Zeiss 24mm F1.8",
+        "color": "Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "950",
+        "nitidez" :"Muy Buena"
+    }
+    ]
+}
