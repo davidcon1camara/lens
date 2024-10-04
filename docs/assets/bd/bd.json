@@ -59,6 +59,21 @@
         "Sustars": "",
         "precio": "950",
         "nitidez" :"Muy Buena"
+    },
+    {
+        "marca": "Sony E 50mm OSS",
+        "montura": "E",
+        "tamano": "17cm",
+        "milimetros": "50mm",
+        "estabilizado": "NO",
+        "modelos": "Sony E 50mm F1.8 OSS",
+        "color": "SILVER / Negro",
+        "diafragma": "F1.8",
+        "aberraciones": "No",
+        "flares": "",
+        "Sustars": "",
+        "precio": "330",
+        "nitidez" :"Muy Buena"
     }
     ]
 }
