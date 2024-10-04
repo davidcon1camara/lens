@@ -7,10 +7,15 @@ import { Observable } from 'rxjs';
 })
 export class ObtenerService {
   private jsonURL = 'assets/bd/bd.json';
+  private postsURL = 'assets/bd/posts.json';
   constructor(private http: HttpClient) { }
 
   getLentes(): Observable<any> {
     return this.http.get(this.jsonURL);
+  }
+
+  getPosts(): Observable<any>{
+    return this.http.get(this.postsURL);
   }
   
 }

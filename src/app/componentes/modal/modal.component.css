@@ -1,0 +1,6 @@
+:host {
+    display: block; /* Asegúrate de que el componente ocupe todo el espacio disponible */
+    background-color: #f0f0f0; /* Cambia el color según lo necesites */
+    height: 40vh; /* O cualquier otra altura deseada */
+    width:80vh;
+  }

@@ -1,1 +1,12 @@
-<p>posts works!</p>
+<div *ngIf="posts.length > 0; else loading">
+    <ul>
+      <li *ngFor="let post of posts">
+        <b>{{ post.titulo }}</b>, <br> 
+        <i>{{ post.subtitulo }}</i><br>
+        <br>
+      </li>
+    </ul>
+  </div>
+  <ng-template #loading>
+    <p>Cargando datos...</p>
+  </ng-template>

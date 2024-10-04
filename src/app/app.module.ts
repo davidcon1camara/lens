@@ -8,10 +8,13 @@ import { HeaderComponent}  from '../app/componentes/header/header.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { BodyComponent } from './componentes/body/body.component';
 import { PostsComponent } from './componentes/posts/posts.component';
+import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { ModalComponent } from './componentes/modal/modal.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ModalComponent
   ],
   imports: [
     BrowserModule,
@@ -22,7 +25,9 @@ import { PostsComponent } from './componentes/posts/posts.component';
     BodyComponent,
     PostsComponent,
   ],
-  providers: [],
+  providers: [
+    provideAnimationsAsync()
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
